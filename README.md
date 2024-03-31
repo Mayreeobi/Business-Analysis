@@ -1,10 +1,10 @@
 # Business-Analysis-with-Power-BI
 
+## Introduction
+Following the completion of the "Mastering of DAX" course, I participated in an internship program organized by ForesightBI to apply my newly acquired DAX skills.
 
-## Introduction 
-Upon concluding the "Mastering of DAX" course, I partook in an internship program organised by ForesightBI to put into practice my newly  acquired DAX skills. 
 ## Background:
-Forggith Pharmaceuticals (Forggith) is a Pharmaceuticals Manufacturing Company based in Germany. They produce medical drugs which get to the consumers through their distributors. Forggith does not sell directly to retailers or end-users, but rather rely on their team of Sales and Marketing pros to ensure that customers get their products.
+Forggith Pharmaceuticals (Forggith) is a pharmaceutical manufacturing company based in Germany. They specialize in producing medical drugs distributed to consumers through their network of distributors. Forggith does not engage in direct sales to retailers or end-users but instead relies on a team of sales and marketing professionals to ensure the availability of their products to customers.
 
 ## Objectives
 The task is to produce 2 reports whereby the Sales and marketing teams can track their performances and also for the Executive team to monitor and track revenue and align with the set targets, and also provide insights to the following questions:
@@ -51,25 +51,25 @@ Relationship was created using the Star Schema. There was two facts tables and 5
 ## Analysis and Visualization
 Here a sneak peek of the report  ![here](https://github.com/Mayreeobi/Business-Analysis-with-Power-BI/blob/main/sales.png)
 
-You can interact with the dashboard [here] (https://app.powerbi.com/view?r=eyJrIjoiMzE3NWEyNTktNWI5Ny00ZmQ1LWIyOTItN2IyY2UwZjc4OTk1IiwidCI6ImExZGNjNGZiLTRlYzAtNGI1Ni04NDg1LTRmOTgzYzMyODY0MiJ9)
+You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzE3NWEyNTktNWI5Ny00ZmQ1LWIyOTItN2IyY2UwZjc4OTk1IiwidCI6ImExZGNjNGZiLTRlYzAtNGI1Ni04NDg1LTRmOTgzYzMyODY0MiJ9)
 
 ## Summary of Findings
--	Total Revenue exceeded the target set with a sum of $2.7bn
--	Team Delta is the most successful team generating 30.8% of the actual revenue, while Abigail is the top sales rep.
--	Top selling product category was Top Performing product is Ionclotide, it generated a revenue of $165,614,153 and sold 262,463 quantities. While the least performing product is Amphesirox with a revenue of $2,506,175. 
--	Butzbach had the highest Revenue ($93,561,780) by Location and was 122.41% higher than Castrop-Rauxel, which had the lowest Revenue.
--	Analgesics accounted for 20.21% of Revenue thus making it the top performing product by class while Antimalarial is the least.
--	Actual Revenue YTD and Total Target YTD diverged the most in 
--	the Year was 2022, when Actual Revenue YTD were $881,113,714 higher than Total Target YTD. 
--	February had the highest Actual Revenue MoM% at 43.86%.
--	Pharmacy accounts for 52.90% ($5,881,894,078) of the Revenue by Channel. 
--	Retail had the highest Target Revenue % at 62.59%, followed by Government, Institution, and Private.  
--	Volume Achieved and Volume Target diverged the most when the Year was 2022, when Volume Achieved were 2,140,110 higher than Volume Target.
+-  Total Revenue exceeded the target set with a sum of $2.7 billion.
+-  Team Delta emerged as the most successful team, generating 30.8% of the actual revenue, with Abigail being the top sales representative.
+-  The top-selling product category was Analgesics, with Ionclotide leading as the top-performing product, generating a revenue of $165,614,153 and selling 262,463 units.
+   Conversely, Amphesirox was the least performing product, yielding a revenue of $2,506,175.
+-  Butzbach exhibited the highest revenue ($93,561,780) by location, surpassing Castrop-Rauxel by 122.41%.
+-  Analgesics accounted for 20.21% of revenue, making it the top-performing product class, while Antimalarial products performed the least.
+-  Actual Revenue Year-to-Date (YTD) and Total Target YTD showed the greatest disparity in 2022, with Actual Revenue YTD surpassing Total Target YTD by $881,113,714.
+-  February saw the highest Actual Revenue Month-over-Month (MoM) increase at 43.86%.
+-  Pharmacy contributed 52.90% ($5,881,894,078) of revenue by channel, with Retail having the highest Target Revenue percentage at 62.59%, followed by Government, Institution, and 
+   Private channels.
+-  Volume Achieved and Volume Target showed the greatest disparity in 2022, with Volume Achieved surpassing Volume Target by 2,140,110 units.
 
 ## Recommendations
--	Abigail Thompson and Team Delta should be given bonuses and incentives to keep them motivated and inspired.
--	More marketing strategies should be put in place for the least performing products
--	Rebranding the least performing product and launch to existing and new markets.
--	Optimize search engines to increase products visibility on the website and web pages.
+-  Offer bonuses and incentives to Abigail Thompson and Team Delta to maintain motivation and morale.
+-  Implement additional marketing strategies for underperforming products.
+-  Consider rebranding underperforming products and expanding into new markets.
+-  Optimize search engine visibility to enhance product exposure on websites and web pages.
 
 ## Thank you for reading.
