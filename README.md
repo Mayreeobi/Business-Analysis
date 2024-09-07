@@ -1,4 +1,4 @@
-# Business-Analysis-with-Power-BI
+# Business-Analysis
 
 ## Introduction
 Following the completion of the "Mastering of DAX" course, I participated in an internship program organized by ForesightBI to apply my newly acquired DAX skills.
@@ -51,7 +51,7 @@ Relationship was created using the Star Schema. There was two facts tables and 5
 ## Analysis and Visualization
 Here a sneak peek of the report  ![here](https://github.com/Mayreeobi/Business-Analysis-with-Power-BI/blob/main/sales.png)
 
-You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzE3NWEyNTktNWI5Ny00ZmQ1LWIyOTItN2IyY2UwZjc4OTk1IiwidCI6ImExZGNjNGZiLTRlYzAtNGI1Ni04NDg1LTRmOTgzYzMyODY0MiJ9)
+You can interact with the dashboard [here](https://public.tableau.com/views/forigith/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Summary of Findings
 -  Total Revenue exceeded the target set with a sum of $2.7 billion.
