@@ -1,10 +1,12 @@
 # Business-Analysis
 
 ## Introduction
-Following the completion of the "Mastering of DAX" course, I participated in an internship program organized by ForesightBI to apply my newly acquired DAX skills.
+After successfully completing the 'Mastering of DAX' course, I applied my newfound DAX skills in an internship program at ForesightBI.
 
 ## Background:
 Forggith Pharmaceuticals (Forggith) is a pharmaceutical manufacturing company based in Germany. They specialize in producing medical drugs distributed to consumers through their network of distributors. Forggith does not engage in direct sales to retailers or end-users but instead relies on a team of sales and marketing professionals to ensure the availability of their products to customers.
+
+### Interactive Dashboard [Here](https://public.tableau.com/views/forigith/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Objectives
 The task is to produce 2 reports whereby the Sales and marketing teams can track their performances and also for the Executive team to monitor and track revenue and align with the set targets, and also provide insights to the following questions:
@@ -49,9 +51,7 @@ Relationship was created using the Star Schema. There was two facts tables and 5
 ![](https://github.com/Mayreeobi/Business-Analysis-with-Power-BI/blob/main/schema.png)
 
 ## Analysis and Visualization
-Here a sneak peek of the report  ![here](https://github.com/Mayreeobi/Business-Analysis-with-Power-BI/blob/main/sales.png)
-
-You can interact with the dashboard [here](https://public.tableau.com/views/forigith/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+A sneak peek of the report  ![here](https://github.com/Mayreeobi/Business-Analysis-with-Power-BI/blob/main/sales.png)
 
 ## Summary of Findings
 -  Total Revenue exceeded the target set with a sum of $2.7 billion.
